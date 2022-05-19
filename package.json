@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cassandra-driver": "^4.6.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "express-cassandra": "^2.7.0",
+    "nodemon": "^2.0.16"
+  }
+}
